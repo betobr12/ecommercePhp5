@@ -16,9 +16,8 @@
  <p>Carrinho de compra</p>
  <p>Finalização do pedido</p>
 
-<p>Site Criado para estudo, precisa de layout e muitas modificações para ser usado</p>
+<p>Site Criado para estudo, precisa de layout e muitas outras modificações para ser usado</p>
 
-<p>Site Criado para estudo, precisa de layout e muitas modificações para ser usado</p>
 <br/>
 <h4>Usar o pacote de instalação Xampp versão 1.7.2</h4>.
 
