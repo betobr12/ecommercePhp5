@@ -1,5 +1,5 @@
 
-<h2>Sistema de e-commerce desenvolvido em HTML, PHP 5.3.0, JavaScript + MySQL 3.2.0.1 como banco de dados e Xampp como servidor.</h2> 
+<h2>Sistema de e-commerce desenvolvido em PHP 5.3.0, Html, JavaScript + MySQL 3.2.0.1 como banco de dados e Xampp como servidor.</h2> 
  <br/>
 <h3>O site possui:</h3>
  <h2>Parte administrativa</h2> 
